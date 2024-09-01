@@ -20,3 +20,6 @@ This is a web application built with Streamlit that retrieves the list of compan
 Python Libraries: Streamlit, Pandas, Numpy, Matplotlib, yFinance, Base64.
 
 Data Source: Wikipedia for the company list, Yahoo Finance for stock price data.
+
+🌟For run the app:
+http://localhost:8501/
