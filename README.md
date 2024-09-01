@@ -2,7 +2,7 @@
 
 This is a web application built with Streamlit that retrieves the list of companies in the S&P 500 Index from Wikipedia and displays stock closing prices for the selected companies. The application allows users to filter companies by sector and visualize year-to-date stock closing prices for the top companies in the selected sector.
 
-_Features:_
+💡_Features:_
 
 **Web Scraping:** Retrieves the S&P 500 company list from Wikipedia.
 
@@ -15,7 +15,7 @@ _Features:_
 **Data Source:** Stock data is fetched from Yahoo Finance using the yfinance library.
 
 
-_Technologies Used:_
+📚_Technologies Used:_
 
 Python Libraries: Streamlit, Pandas, Numpy, Matplotlib, yFinance, Base64.
 
