@@ -21,5 +21,5 @@ Python Libraries: Streamlit, Pandas, Numpy, Matplotlib, yFinance, Base64.
 
 Data Source: Wikipedia for the company list, Yahoo Finance for stock price data.
 
-🌟For run the app:
-http://localhost:8501/
+🌟 Tiago.harari@gmail.com
+-Tiago Harari-
